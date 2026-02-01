@@ -1,0 +1,18 @@
+{
+  "cycle": 9,
+  "known_components": [
+    "search","categories","listings","seller_hub","cart","checkout",
+    "wallet","tokens","chat","voice","video","analyzers",
+    "index","manifests","bots","import","export"
+  ],
+  "next_targets": [
+    "pricing_engine",
+    "reputation_system",
+    "recommendations",
+    "semantic_search",
+    "royalties",
+    "permissions",
+    "audit_logs"
+  ],
+  "principle": "Structure before intelligence. Expansion over time."
+}
